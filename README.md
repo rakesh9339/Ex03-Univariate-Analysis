@@ -56,7 +56,7 @@ sns.distplot(data["Postal Code"])
 sns.histplot(x='Postal Code',data=data)
 ```
 # Output:
-![](out1.png)
+![open](out1.png)
 
 ![](out2.png)
 
